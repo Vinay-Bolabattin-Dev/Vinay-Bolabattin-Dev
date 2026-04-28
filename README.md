@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vinay Bolabattin 👋
 
-<!--
-**Vinay-Bolabattin-Dev/Vinay-Bolabattin-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCS Student | Aspiring Python & Backend Developer
+I am currently pursuing my Master of Computer Science and building my skills in professional software development.
 
-Here are some ideas to get you started:
+- 🔭 **Focus:** Python, SQL, and Backend Development.
+- 🌱 **Learning:** Django and modern API architecture.
+- ⚡ **Fun Fact:** Building my career from Solapur to the global tech hub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+- **Languages:** Python, Java
+- **Databases:** MySQL, SQLite
+- **Concepts:** Networking, DBMS, OOPs
